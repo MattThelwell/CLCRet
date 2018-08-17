@@ -16,7 +16,7 @@
 ## X-Curse-Project-Name: Retribution FCFS helper (clcret)
 ## X-Curse-Project-ID: clcret
 ## X-Curse-Repository-ID: wow/clcret/mainline
-Locales\zhCN.lua
+
 #@no-lib-strip@
 embeds.xml
 #@end-no-lib-strip@
